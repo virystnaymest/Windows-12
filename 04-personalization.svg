@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="560" viewBox="0 0 1400 560">
+<defs>
+<linearGradient id="rainbow" x1="0" y1="0" x2="1" y2="1">
+<stop stop-color="#ff3b8d"/><stop offset=".2" stop-color="#ff8a3d"/>
+<stop offset=".4" stop-color="#ffe45c"/><stop offset=".6" stop-color="#48e6a3"/>
+<stop offset=".8" stop-color="#48bfff"/><stop offset="1" stop-color="#bd70ff"/>
+</linearGradient>
+<linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#38bdf8"/>
+<stop offset=".5" stop-color="#5b8cff"/><stop offset="1" stop-color="#9b6cff"/></linearGradient>
+<filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-opacity=".25"/></filter>
+<filter id="glow"><feGaussianBlur stdDeviation="10" result="b"/><feMerge><feMergeNode in="b"/>
+<feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs><rect width="1400" height="560" rx="34" fill="#0a0e19"/>
+<g filter="url(#shadow)"><rect x="120" y="105" width="260" height="300" rx="24" fill="#1b3151"/>
+<rect x="405" y="105" width="260" height="300" rx="24" fill="#45263e"/>
+<rect x="690" y="105" width="260" height="300" rx="24" fill="#203c36"/>
+<rect x="975" y="105" width="260" height="300" rx="24" fill="#382b56"/></g>
+<circle cx="250" cy="255" r="78" fill="#55cfff" opacity=".55" filter="url(#glow)"/>
+<circle cx="535" cy="255" r="78" fill="#ff6cae" opacity=".45" filter="url(#glow)"/>
+<circle cx="820" cy="255" r="78" fill="#58e0a4" opacity=".42" filter="url(#glow)"/>
+<circle cx="1105" cy="255" r="78" fill="#b978ff" opacity=".45" filter="url(#glow)"/>
+<text x="700" y="475" text-anchor="middle" font-family="Segoe UI,Arial" font-size="23" font-weight="600" fill="#dcecff">Personalize your desktop with color, glass and wallpapers.</text>
+</svg>

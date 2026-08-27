@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="560" viewBox="0 0 1400 560">
+<defs>
+<linearGradient id="rainbow" x1="0" y1="0" x2="1" y2="1">
+<stop stop-color="#ff3b8d"/><stop offset=".2" stop-color="#ff8a3d"/>
+<stop offset=".4" stop-color="#ffe45c"/><stop offset=".6" stop-color="#48e6a3"/>
+<stop offset=".8" stop-color="#48bfff"/><stop offset="1" stop-color="#bd70ff"/>
+</linearGradient>
+<linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#38bdf8"/>
+<stop offset=".5" stop-color="#5b8cff"/><stop offset="1" stop-color="#9b6cff"/></linearGradient>
+<filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-opacity=".25"/></filter>
+<filter id="glow"><feGaussianBlur stdDeviation="10" result="b"/><feMerge><feMergeNode in="b"/>
+<feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs><rect width="1400" height="560" rx="34" fill="#080d16"/>
+<rect x="180" y="80" width="1040" height="390" rx="28" fill="#142234" stroke="#6e8aa5" stroke-opacity=".42" filter="url(#shadow)"/>
+<rect x="215" y="120" width="235" height="315" rx="18" fill="#0e1927"/>
+<rect x="245" y="165" width="165" height="15" rx="7" fill="#5ccaff"/><rect x="245" y="205" width="130" height="10" rx="5" fill="#405a72"/><rect x="245" y="235" width="150" height="10" rx="5" fill="#405a72"/><rect x="245" y="265" width="105" height="10" rx="5" fill="#405a72"/>
+<rect x="485" y="125" width="690" height="75" rx="18" fill="#1b2e45"/><rect x="520" y="153" width="330" height="12" rx="6" fill="#80d9ff"/>
+<rect x="485" y="220" width="335" height="185" rx="18" fill="#102032"/><rect x="840" y="220" width="335" height="185" rx="18" fill="#102032"/>
+<circle cx="550" cy="290" r="34" fill="url(#blue)"/><rect x="610" y="270" width="155" height="10" rx="5" fill="#49627a"/><rect x="610" y="298" width="115" height="9" rx="4" fill="#344d65"/>
+<text x="700" y="510" text-anchor="middle" font-family="Segoe UI,Arial" font-size="23" font-weight="600" fill="#dcecff">Settings designed as one consistent system.</text>
+</svg>
