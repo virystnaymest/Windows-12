@@ -218,11 +218,19 @@
 </div>
 
 > **Disclaimer:** Windows является товарным знаком Microsoft Corporation. Этот проект является независимой веб-концепцией и не является официальным продуктом Microsoft.
-<div align="center"><img src="./download-windows12.svg" alt="Download Windows 12" width="900"><br><ins>🚀 Скачать Windows 12 Web Edition</ins>
+> <div align="center"><a href="./download-windows12.svg">
+  <img src="./download-windows12.svg" alt="Download Windows 12" width="900">
+</a><br><br>
+
+<ins>🚀 Скачать Windows 12 Web Edition</ins>
+
+<br><br>
 
 Попробуйте Windows 12 Web Edition прямо сейчас
 
-<br><a href="./releases/latest">
+<br><br>
+
+<a href="./download-windows12.svg" download="download-windows12.svg">
   <img src="https://img.shields.io/badge/Скачать%20Windows%2012-5B8CFF?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать Windows 12">
 </a><br><br>
 
