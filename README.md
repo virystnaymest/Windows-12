@@ -1,260 +1,220 @@
-<p align="center">
-  <img src="windows12_github_header.svg" alt="Windows 12 Web Edition">
-</p>
- #Windows 12 
- 🪟 Windows 12 Web Edition
+<div align="center">
 
-Windows 12 Web Edition — это интерактивная веб-имитация современного рабочего стола Windows, созданная с акцентом на красивый интерфейс, плавные анимации и ощущение полноценной операционной системы прямо в браузере.
+<img src="./01-hero.svg" alt="Windows 12 Web Edition" width="100%">
 
-«⚠️ Это не настоящая операционная система Windows и не является официальным продуктом Microsoft. Проект представляет собой веб-интерфейс и концепт Windows 12.»
+# <ins>🌈 Windows 12 Web Edition</ins>
 
-✨ Возможности
+### <ins>Modern • Glass • Web • Concept</ins>
 
-- 🖥️ Современный рабочий стол в стиле Windows 12
-- 🪟 Стеклянный интерфейс и эффекты Acrylic / Glassmorphism
-- 📌 Панель задач
-- 🔍 Меню «Пуск»
-- 📂 Окна и приложения
-- ⚙️ Центр настроек
-- 🎨 Несколько вариантов обоев
-- 🌌 Новые динамичные варианты оформления рабочего стола
-- 🔄 Сохранение выбранных настроек в браузере
-- 🔑 Система демонстрационной активации Windows
-- ℹ️ Приложение «О программе»
-- 🔄 Анимация загрузки Windows
-- ⚡ Оптимизированные визуальные эффекты
-- 📱 Адаптация интерфейса под разные размеры экрана
+**Интерактивная концепция рабочего стола Windows, работающая прямо в браузере.**
 
-🔑 Редакции Windows
+<br>
 
-В проекте предусмотрены три демонстрационные редакции:
+[![Version](https://img.shields.io/badge/version-1.5-5b8cff?style=for-the-badge)](./)
+[![Build](https://img.shields.io/badge/build-26H12-38bdf8?style=for-the-badge)](./)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](./)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](./)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](./)
 
-Редакция| Код
-🏠 Домашняя| "home"
-🏢 Корпоративная| "corporation"
-💼 Профессиональная| "pro"
+<br>
 
-Активация является частью симуляции интерфейса и не активирует настоящую Windows.
-
-ℹ️ Информация о системе
-
-В приложении «О программе» отображается:
-
-- Windows 12 Web Edition
-- Редакция Windows
-- Состояние активации
-- Вид активации
-- Код сборки: 26H12
-- Версия: 1.5
-- Создано: Virystnaymest
-
-🎨 Интерфейс
-
-Проект использует единый визуальный стиль Windows 12:
-
-- полупрозрачные панели;
-- размытие фона;
-- скруглённые окна;
-- мягкие тени;
-- современные кнопки;
-- единая цветовая система;
-- плавные переходы и анимации;
-- минималистичные системные иконки.
-
-🚀 Запуск
-
-Проект не требует установки.
-
-1. Скачайте проект.
-2. Распакуйте архив.
-3. Откройте HTML-файл в браузере.
-
-Для полноценной работы рекомендуется использовать современный браузер на основе Chromium, Firefox или Safari.
-
-🛠️ Технологии
-
-Проект создан с использованием:
-
-- HTML5
-- CSS3
-- JavaScript
-- LocalStorage
-- CSS Animations
-- CSS Backdrop Filter
-- SVG / системных иконок
-
-📦 Версия
-
-Windows 12 Web Edition — v1.5
-
-Build: "26H12"
-
-Creator: "Virystnaymest"
-
-📸 Скриншоты
-
-Добавьте сюда скриншоты проекта:
-
-screenshots/
-├── desktop.png
-├── start-menu.png
-├── settings.png
-└── about.png
-
-🗺️ Планы развития
-
-В будущих версиях планируется:
-
-- [ ] Улучшить файловый менеджер
-- [ ] Добавить больше системных приложений
-- [ ] Добавить дополнительные темы
-- [ ] Улучшить систему окон
-- [ ] Добавить больше анимаций
-- [ ] Улучшить мобильную версию
-- [ ] Добавить больше вариантов обоев
-- [ ] Улучшить панель быстрых настроек
-- [ ] Добавить дополнительные настройки персонализации
-
-📄 Лицензия
-
-Проект распространяется в соответствии с лицензией, указанной в репозитории.
-
-👤 Автор
-
-Virystnaymest
-
----
-
-⭐ Если вам нравится проект, поставьте репозиторию звезду на GitHub!
-
-Windows 12 Web Edition — современный Windows-подобный интерфейс прямо в браузере.
-<div align="center"><img src="./w12_rainbow.svg" alt="Windows 12 Web Edition">🌈 Modern • Glass • Web • Concept
-
-Windows 12 Web Edition — современная веб-концепция рабочего стола Windows, созданная для браузера с использованием HTML, CSS и JavaScript.
-
----
-
-🪟 О проекте
-
-Windows 12 Web Edition — это попытка перенести атмосферу современной операционной системы прямо в браузер.
-
-Проект включает интерактивный рабочий стол, окна, приложения, настройки, персонализацию и визуальные эффекты в стиле современной Windows.
-
-<br><img src="./w12_glass.svg" alt="Windows 12 Glass">---
-
-✨ Возможности
-
-🖥️ Рабочий стол| 🪟 Окна| ⚙️ Настройки
-Современный интерфейс| Перемещение и управление| Персонализация
-Красивые обои| Glass-эффекты| Системные параметры
-
-🎨 Персонализация| 🔑 Активация| ℹ️ О программе
-Несколько обоев| 3 редакции| Информация о системе
-Цветовые эффекты| Home / Pro / Corporation| Build 26H12
-
----
-
-<img src="./w12_blue.svg" alt="Windows 12 Blue">🎨 Дизайн
-
-Проект использует собственную визуальную систему:
-
-🔵 Windows Blue
-Основной системный стиль с голубыми и синими акцентами.
-
-🌈 Rainbow Gradient
-Градиентные элементы для современного и необычного оформления.
-
-🪟 Glass UI
-Полупрозрачные панели, размытие, мягкие тени и скруглённые элементы.
-
-✨ Smooth UI
-Плавные переходы и анимации интерфейса.
-
----
-
-🖼️ Персонализация
-
-В Windows 12 Web Edition доступны различные варианты оформления рабочего стола:
-
-"Aurora" · "Sunset" · "Ocean" · "Forest" · "Violet" · "Minimal"
-
-А также дополнительные современные варианты:
-
-"Crystal" · "Midnight" · "Desert" · "Sakura" · "Synthwave" · "Alpine" · "Cloud" · "Liquid Glass"
-
----
-
-<img src="./w12_build.svg" alt="Windows 12 Build 26H12">🔑 Активация
-
-В интерфейсе присутствует демонстрационная система активации Windows.
-
-Редакция| Код
-🏠 Домашняя| "home"
-🏢 Корпоративная| "corporation"
-💼 Профессиональная| "pro"
-
-«⚠️ Активация является частью симуляции интерфейса и не активирует настоящую операционную систему Windows.»
-
----
-
-ℹ️ Информация
-
-Операционная система: Windows 12 Web Edition
-Редакция: отображается в приложении «О программе»
-Build: "26H12"
-Version: "1.5"
-Creator: "Virystnaymest"
-
-<br><img src="./w12_creator.svg" alt="Created by Virystnaymest">---
-
-🚀 Запуск
-
-Проект работает непосредственно в браузере.
-
-1. Скачать репозиторий
-2. Открыть HTML-файл
-3. Наслаждаться Windows 12 Web Edition
-
-Не требуется установка настоящей Windows или дополнительного программного обеспечения.
-
----
-
-🛠️ Используемые технологии
-
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-HTML5 • CSS3 • JavaScript • SVG • LocalStorage • CSS Animations
-
----
-
-🗺️ Roadmap
-
-- [x] Windows 12 Desktop
-- [x] Панель задач
-- [x] Меню «Пуск»
-- [x] Настройки
-- [x] Персонализация
-- [x] Смена обоев
-- [x] Система активации
-- [x] О программе
-- [x] Boot Animation
-- [x] Glass UI
-- [ ] Дополнительные системные приложения
-- [ ] Улучшенный файловый менеджер
-- [ ] Больше тем оформления
-- [ ] Новые анимации
-- [ ] Улучшенная мобильная версия
-
----
-
-<div align="center">🌈 Windows 12 Web Edition
-
-Made with HTML • CSS • JavaScript
-
-<img src="./w12_rainbow.svg" width="700" alt="Windows 12 Web Edition">Created by Virystnaymest
-
-⭐ Если проект вам понравился — поставьте репозиторию Star!
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
+
+## <ins>🪟 Windows 12 Desktop</ins>
+
+<div align="center">
+<img src="./02-desktop.svg" alt="Windows 12 desktop">
+</div>
+
+**Windows 12 Web Edition** переносит привычную концепцию рабочего стола в браузер: окна, панель задач, меню «Пуск», приложения, настройки и персонализация объединены в единую визуальную систему.
+
+> ✨ **Главная идея:** создать ощущение полноценного современного рабочего стола без установки настоящей операционной системы.
+
+---
+
+## <ins>🪟 Window System</ins>
+
+<div align="center">
+<img src="./03-windows.svg" alt="Windows and glass UI">
+</div>
+
+### <ins>Единый стиль окон</ins>
+
+Каждый элемент интерфейса использует одну дизайн-систему:
+
+- **Glass UI** — прозрачность и мягкое размытие;
+- **Rounded corners** — единые скругления;
+- **Soft shadows** — аккуратные тени;
+- **Smooth transitions** — плавные переходы;
+- **Consistent spacing** — одинаковые отступы и размеры.
+
+---
+
+## <ins>🎨 Personalization</ins>
+
+<div align="center">
+<img src="./04-personalization.svg" alt="Personalization">
+</div>
+
+### <ins>Сделай рабочий стол своим</ins>
+
+В проекте предусмотрена персонализация рабочего стола и несколько вариантов визуального оформления.
+
+**Обои:**  
+`Aurora` · `Sunset` · `Ocean` · `Forest` · `Violet` · `Minimal` · `Crystal` · `Midnight` · `Desert` · `Sakura` · `Synthwave` · `Alpine` · `Cloud` · `Liquid Glass`
+
+**Акцент:**  
+`Blue` · `Purple` · `Pink` · `Cyan` · `Rainbow`
+
+---
+
+## <ins>⚙️ Settings</ins>
+
+<div align="center">
+<img src="./05-settings.svg" alt="Windows 12 settings">
+</div>
+
+### <ins>Настройки в единой дизайн-системе</ins>
+
+Настройки оформлены в том же стиле, что и рабочий стол: стеклянные панели, мягкие границы, аккуратные карточки и единые интерактивные состояния.
+
+---
+
+## <ins>🔑 Windows Activation</ins>
+
+<div align="center">
+<img src="./06-activation.svg" alt="Windows activation">
+</div>
+
+### <ins>Демонстрационная система активации</ins>
+
+Проект содержит интерфейс активации с тремя демонстрационными редакциями:
+
+| 🏠 Редакция | 🔑 Код |
+|:---:|:---:|
+| **Домашняя** | `home` |
+| **Профессиональная** | `pro` |
+| **Корпоративная** | `corporation` |
+
+> ⚠️ Это **симуляция активации внутри веб-интерфейса**. Она не активирует настоящую Windows и не является ключом Microsoft.
+
+---
+
+## <ins>⏳ Boot Experience</ins>
+
+<div align="center">
+<img src="./07-boot.svg" alt="Windows 12 boot animation">
+</div>
+
+### <ins>Загрузка Windows 12</ins>
+
+При запуске отображается отдельный загрузочный экран:
+
+**⬛ Чёрный фон → 🪟 голубой логотип → 🔄 вращающийся индикатор → 🖥️ рабочий стол**
+
+Загрузка рассчитана на **5 секунд** и затем плавно исчезает.
+
+---
+
+## <ins>ℹ️ About the System</ins>
+
+<div align="center">
+<img src="./08-about.svg" alt="About Windows 12 Web Edition">
+</div>
+
+### <ins>Сведения о системе</ins>
+
+| Параметр | Значение |
+|:---|:---|
+| **OS** | Windows 12 Web Edition |
+| **Build** | `26H12` |
+| **Version** | `1.5` |
+| **Creator** | `Virystnaymest` |
+| **Platform** | Web Browser |
+
+---
+
+## <ins>🛠️ Technologies</ins>
+
+<div align="center">
+<img src="./09-tech.svg" alt="Technologies">
+</div>
+
+<div align="center">
+
+**HTML5** · **CSS3** · **JavaScript** · **SVG** · **LocalStorage** · **CSS Animations**
+
+</div>
+
+---
+
+## <ins>🚀 Launch</ins>
+
+Запуск максимально простой:
+
+```text
+1. Скачайте репозиторий
+2. Откройте HTML-файл
+3. Windows 12 Web Edition запустится в браузере
+```
+
+Для лучшего результата рекомендуется использовать современный **Chrome, Edge, Firefox или Safari**.
+
+---
+
+## <ins>🗺️ Roadmap</ins>
+
+- [x] 🖥️ Desktop
+- [x] 🪟 Window system
+- [x] 📌 Taskbar
+- [x] 🔍 Start menu
+- [x] ⚙️ Settings
+- [x] 🎨 Personalization
+- [x] 🌌 Wallpaper system
+- [x] 🔑 Demo activation
+- [x] ℹ️ About application
+- [x] ⏳ Boot animation
+- [x] 🪟 Glass UI
+- [ ] 📁 Advanced file manager
+- [ ] 🧩 More system applications
+- [ ] 🎨 More themes
+- [ ] 📱 Improved mobile experience
+- [ ] ✨ More advanced animations
+
+---
+
+## <ins>👤 Creator</ins>
+
+<div align="center">
+<img src="./10-creator.svg" alt="Created by Virystnaymest">
+</div>
+
+<div align="center">
+
+### <ins>Created by Virystnaymest</ins>
+
+**Windows 12 Web Edition · Build 26H12**
+
+<br>
+
+⭐ **Если тебе нравится проект — поставь Star репозиторию!**
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌈 <ins>Windows 12 Web Edition</ins>
+
+**Modern • Glass • Web • Concept**
+
+<br>
+
+<img src="./01-hero.svg" alt="Windows 12 Web Edition" width="720">
+
+</div>
+
+> **Disclaimer:** Windows является товарным знаком Microsoft Corporation. Этот проект является независимой веб-концепцией и не является официальным продуктом Microsoft.
