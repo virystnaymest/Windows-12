@@ -130,7 +130,7 @@
 |:---|:---|
 | **OS** | Windows 12 Web Edition |
 | **Build** | `26H12` |
-| **Version** | `1.5` |
+| **Version** | `1.0.0.0` |
 | **Creator** | `Virystnaymest` |
 | **Platform** | Web Browser |
 
